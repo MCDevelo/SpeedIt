@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SpeedIt.App">
+    <Application.Resources>
+        <Color x:Key="colorNormalSpeed">#8BDB81</Color>
+        <Color x:Key="colorNormalHighSpeed">#E7ED9B</Color>
+        <Color x:Key="colorMediumSpeed">#FFE162</Color>
+        <Color x:Key="colorFastSpeed">#FFAB76</Color>
+        <Color x:Key="colorToFastSpeed">#FF1700</Color>
+        
+        <!-- Text -->
+        <Style TargetType="Label" x:Key="lblSpeed">
+            <Setter Property="VerticalOptions" Value="Center"/>
+            <Setter Property="HorizontalOptions" Value="Center"/>
+            <Setter Property="FontSize" Value="80"/>
+            <Setter Property="FontAttributes" Value="Bold"/>
+        </Style>
+        <Style TargetType="Label" x:Key="lblSpeedType">
+            <Setter Property="VerticalOptions" Value="Center"/>
+            <Setter Property="HorizontalOptions" Value="Center"/>
+            <Setter Property="FontSize" Value="50"/>
+            <Setter Property="FontAttributes" Value="Bold"/>
+        </Style>
+    </Application.Resources>
+</Application>

@@ -1,0 +1,14 @@
+E:\Programacion Personal\MC Developer\speedItapp\SpeedIt\SpeedIt\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Programacion Personal\MC Developer\speedItapp\SpeedIt\SpeedIt\obj\Debug\netstandard2.0\View\Speed.xaml.g.cs
+E:\Programacion Personal\MC Developer\speedItapp\SpeedIt\SpeedIt\obj\Debug\netstandard2.0\SpeedIt.AssemblyInfoInputs.cache
+E:\Programacion Personal\MC Developer\speedItapp\SpeedIt\SpeedIt\obj\Debug\netstandard2.0\SpeedIt.AssemblyInfo.cs
+E:\Programacion Personal\MC Developer\speedItapp\SpeedIt\SpeedIt\obj\Debug\netstandard2.0\SpeedIt.csproj.CoreCompileInputs.cache
+E:\Programacion Personal\MC Developer\speedItapp\SpeedIt\SpeedIt\bin\Debug\netstandard2.0\SpeedIt.deps.json
+E:\Programacion Personal\MC Developer\speedItapp\SpeedIt\SpeedIt\bin\Debug\netstandard2.0\SpeedIt.dll
+E:\Programacion Personal\MC Developer\speedItapp\SpeedIt\SpeedIt\bin\Debug\netstandard2.0\ref\SpeedIt.dll
+E:\Programacion Personal\MC Developer\speedItapp\SpeedIt\SpeedIt\bin\Debug\netstandard2.0\SpeedIt.pdb
+E:\Programacion Personal\MC Developer\speedItapp\SpeedIt\SpeedIt\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Programacion Personal\MC Developer\speedItapp\SpeedIt\SpeedIt\obj\Debug\netstandard2.0\SpeedIt.dll
+E:\Programacion Personal\MC Developer\speedItapp\SpeedIt\SpeedIt\obj\Debug\netstandard2.0\ref\SpeedIt.dll
+E:\Programacion Personal\MC Developer\speedItapp\SpeedIt\SpeedIt\obj\Debug\netstandard2.0\SpeedIt.pdb
+E:\Programacion Personal\MC Developer\speedItapp\SpeedIt\SpeedIt\obj\Debug\netstandard2.0\SpeedIt.csprojAssemblyReference.cache

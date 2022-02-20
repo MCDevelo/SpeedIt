@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "BM7t7FRDk7MQQNar6kY/z8haSi8ef21rORz+9cUA0VW8rSuoQdwpx5RTdfRzgkohNRtk6HuR71X8ZblAcoN1Qw==",
+  "success": true,
+  "projectFilePath": "E:\\Programacion Personal\\MC Developer\\speedItapp\\SpeedIt\\SpeedIt\\SpeedIt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Robert Junior Matos\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Robert Junior Matos\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Robert Junior Matos\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Robert Junior Matos\\.nuget\\packages\\xam.plugin.geolocator\\4.5.0.6\\xam.plugin.geolocator.4.5.0.6.nupkg.sha512",
+    "C:\\Users\\Robert Junior Matos\\.nuget\\packages\\xamarin.essentials\\1.7.1\\xamarin.essentials.1.7.1.nupkg.sha512",
+    "C:\\Users\\Robert Junior Matos\\.nuget\\packages\\xamarin.forms\\5.0.0.2337\\xamarin.forms.5.0.0.2337.nupkg.sha512"
+  ],
+  "logs": []
+}
